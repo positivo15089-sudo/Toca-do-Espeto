@@ -1,0 +1,6 @@
+{
+  "name": "Toca do Espeto",
+  "description": "Sistema profissional de PDV, gestão de espetaria e emissão de documentos fiscais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
